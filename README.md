@@ -5,7 +5,7 @@ Analysis of PM2.5 exposure patterns and demographics in the Brazilian Amazon reg
 
 ## 🚀 Quick Start
 
-### Option 1: Run in Google Colab (Recommended)
+### Option 1: Run in Google Colab
 1. Click the badge below to open the setup notebook:
 
 [![Open Setup in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/amazon-demographics-analysis/blob/main/setup/01_environment_setup.ipynb)
