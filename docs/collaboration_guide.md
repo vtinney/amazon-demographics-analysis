@@ -1,12 +1,12 @@
 ## 🔄 Workflow for Collaboration
 
-### For the Intern:
+### For Phoebe:
 1. **Open notebook** from GitHub in Colab
 2. **Work in Colab** with auto-save to Google Drive
 3. **Save to GitHub** when done: File → Save a copy in GitHub
 4. **Commit message**: Describe what was accomplished
 
-### For You (Supervisor):
+### For Veronica:
 1. **Monitor progress** via GitHub commits
 2. **Review outputs** in the repository
 3. **Provide feedback** via GitHub issues or comments
@@ -33,21 +33,6 @@
 
 ---
 
-## ✅ Verification Checklist
-
-Before sharing with your intern:
-
-- [ ] Repository created with correct name
-- [ ] Folder structure matches specification
-- [ ] 01_environment_setup.ipynb uploaded and works in Colab
-- [ ] 02_census_data.ipynb uploaded and accessible
-- [ ] README.md updated with correct GitHub username
-- [ ] Colab badges point to correct URLs
-- [ ] .gitignore prevents large file uploads
-- [ ] Helper functions uploaded to utils/ folder
-- [ ] Intern has access to repository
-
----
 
 ## 🎯 Quick Test
 
