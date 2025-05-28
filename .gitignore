@@ -1,0 +1,28 @@
+# R files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Data files (large files)
+data/raw/fire/*.tif
+data/raw/fire/*.zip
+*.rds
+*.rda
+
+# Outputs
+outputs/maps/*.html
+outputs/reports/*.html
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*~
+*.tmp
+*.temp
