@@ -1,4 +1,4 @@
-```markdown
+
 # Amazon Demographics Analysis
 
 Analysis of PM2.5 exposure patterns and demographics in the Brazilian Amazon region.
@@ -51,6 +51,4 @@ Brazilian Legal Amazon (9 states):
 ## 📄 License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
-```
 
----
